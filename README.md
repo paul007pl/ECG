@@ -19,6 +19,7 @@ Scanned 3D point clouds for real-world scenes often suffer from noise and incomp
 
 ### Citation
 If you find our work useful in your research, please cite:
+
 	@ARTICLE{9093117,
 	author={L. {Pan}},
 	journal={IEEE Robotics and Automation Letters}, 
