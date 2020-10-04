@@ -17,6 +17,7 @@ Scanned 3D point clouds for real-world scenes often suffer from noise and incomp
 2. Downloading corresponding dataset (e.g. ShapeNet dataset; TopNet dataset; or Cascade dataset)
 3. Compile pytorch 3rd-party libs
 
+
 ### Citation
 If you find our work useful in your research, please cite:
 
@@ -28,6 +29,10 @@ If you find our work useful in your research, please cite:
 	volume={5},
 	number={3},
 	pages={4392-4398},}
+
+
+## Acknowledgement
+We include two CD loss functions by [1](https://github.com/chrdiller/pyTorchChamferDistance) and [2](https://github.com/krrish94/chamferdist), and the [EMD function & expansion_penalty](https://github.com/Colin97/MSN-Point-Cloud-Completion) in our repository.
 
 
 ### License
