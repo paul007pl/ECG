@@ -29,3 +29,6 @@ If you find our work useful in your research, please cite:
 	number={3},
 	pages={4392-4398},}
 
+
+### License
+Our code is released under MIT License.
