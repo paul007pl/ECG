@@ -15,7 +15,7 @@ Scanned 3D point clouds for real-world scenes often suffer from noise and incomp
 ### Installation
 1. Install required python libs
 2. Downloading corresponding dataset (e.g. ShapeNet dataset; TopNet dataset; or Cascade dataset)
-3. Compile pytorch 3rd libs
+3. Compile pytorch 3rd-party libs
 
 ### Citation
 If you find our work useful in your research, please cite:
