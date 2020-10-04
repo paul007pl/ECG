@@ -19,11 +19,12 @@ Scanned 3D point clouds for real-world scenes often suffer from noise and incomp
 
 ### Citation
 If you find our work useful in your research, please cite:
-      @ARTICLE{9093117,
-        author={L. {Pan}},
-        journal={IEEE Robotics and Automation Letters}, 
-        title={ECG: Edge-aware Point Cloud Completion with Graph Convolution}, 
-        year={2020},
-        volume={5},
-        number={3},
-        pages={4392-4398},}
+	@ARTICLE{9093117,
+	author={L. {Pan}},
+	journal={IEEE Robotics and Automation Letters}, 
+	title={ECG: Edge-aware Point Cloud Completion with Graph Convolution}, 
+	year={2020},
+	volume={5},
+	number={3},
+	pages={4392-4398},}
+
